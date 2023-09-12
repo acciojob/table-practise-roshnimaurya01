@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+ caption {
+            font-weight: bold;
+        }
+table{
+	background-color:yellow;
+	border: 1px solid black;
+}
+tr,td,th{
+	border: 1px solid black;
+}
